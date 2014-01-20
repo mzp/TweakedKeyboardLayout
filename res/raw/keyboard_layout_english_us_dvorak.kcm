@@ -20,7 +20,8 @@
 
 type OVERLAY
 
-map key 58 MENU
+map key 29 MENU
+map key 58 CTRL_LEFT
 
 map key 12 LEFT_BRACKET
 map key 13 RIGHT_BRACKET
